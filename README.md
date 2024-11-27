@@ -7,7 +7,7 @@
 
 
 
-![My card name](https://cardivo.vercel.app/api?name=Suhas%20Bro%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/suhasbro.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=itx_mee_suhas&github=pathsinduu&)
+![My card name](https://cardivo.vercel.app/api?name=Suhas%20Bro%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/suhasbro.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=SuhasBro&github=SuhasBro&)
 </p>
 <p> <b>Connect With me:</b></p>
 <p>
@@ -28,7 +28,7 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=manulofficial7&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
+       <img src="https://github-readme-stats.vercel.app/api?username=suhasbro24&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
       <a href="https://github.com/pathsindu"><img src="https://github-readme-streak-stats.herokuapp.com?user=manulofficial7&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="SUHAS" /></a>
         </td>
     <td width="50%" align="center">
@@ -69,7 +69,7 @@ me/9477413xxxx)
 </a>
 
 <a href="https://github.com/suhasbro24/SUHAS-MD-V8">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suhasbro23&repo=SUHAS-MD-V8&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suhasbro24&repo=SUHAS-MD-V8&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
